@@ -1,0 +1,5 @@
+Realizar un ejercicio donde tomando una base de datos ya creada puedas actualizar el nombre de una persona/producto
+
+Realizar un ejercicio donde eliminen varios datos, tomando en cuenta otro valor que no sea ni el id, ni el nombre.
+
+Hacerlo modularizado.
